@@ -1,0 +1,3 @@
+[submodule "Hetero-PIM"]
+	path = Hetero-PIM
+	url = https://github.com/sriharshamudumba/Hetero-PIM.git
