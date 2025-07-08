@@ -1,0 +1,15 @@
+Trial: set1_single_exit_block_7
+Exit positions (after blocks): [7]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 2733 (27.33%)
+- Exit Accuracy (only exited samples): 93.19%
+- Exit Accuracy (wrt whole testset): 25.47%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+Exit 2 :
+- Samples exited: 0 (0.00%)
+- Exit Accuracy (only exited samples): 0.00%
+- Exit Accuracy (wrt whole testset): 0.00%

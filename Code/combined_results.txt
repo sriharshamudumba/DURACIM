@@ -1,0 +1,2129 @@
+========== combined_results.txt ==========
+
+
+========== set1_single_exit_block_0.txt ==========
+Trial: set1_single_exit_block_0
+Exit positions (after blocks): [0]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 93 (0.93%)
+- Exit Accuracy (only exited samples): 78.49%
+- Exit Accuracy (wrt whole testset): 0.73%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+
+Exit 2 (Final exit if last):
+- Samples exited: 9907 (99.07%)
+- Exit Accuracy (only exited samples): 80.63%
+- Exit Accuracy (wrt whole testset): 79.88%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 388,808
+Overall Early-Exit Accuracy: 80.61%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 25.58%
+Forced Exit 2: 80.74%
+
+
+========== set1_single_exit_block_1.txt ==========
+Trial: set1_single_exit_block_1
+Exit positions (after blocks): [1]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 216 (2.16%)
+- Exit Accuracy (only exited samples): 83.33%
+- Exit Accuracy (wrt whole testset): 1.80%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+
+Exit 3 (Final exit if last):
+- Samples exited: 9784 (97.84%)
+- Exit Accuracy (only exited samples): 80.46%
+- Exit Accuracy (wrt whole testset): 78.72%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 388,808
+Overall Early-Exit Accuracy: 80.52%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 29.45%
+Forced Exit 2: 80.83%
+
+
+========== set1_single_exit_block_10.txt ==========
+Trial: set1_single_exit_block_10
+Exit positions (after blocks): [10]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 5253 (52.53%)
+- Exit Accuracy (only exited samples): 92.63%
+- Exit Accuracy (wrt whole testset): 48.66%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 3 (Final exit if last):
+- Samples exited: 4747 (47.47%)
+- Exit Accuracy (only exited samples): 67.60%
+- Exit Accuracy (wrt whole testset): 32.09%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 782,024
+Overall Early-Exit Accuracy: 80.75%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 70.68%
+Forced Exit 2: 81.08%
+
+
+========== set1_single_exit_block_11.txt ==========
+Trial: set1_single_exit_block_11
+Exit positions (after blocks): [11]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 6087 (60.87%)
+- Exit Accuracy (only exited samples): 91.44%
+- Exit Accuracy (wrt whole testset): 55.66%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 3 (Final exit if last):
+- Samples exited: 3913 (39.13%)
+- Exit Accuracy (only exited samples): 64.27%
+- Exit Accuracy (wrt whole testset): 25.15%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 782,024
+Overall Early-Exit Accuracy: 80.81%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 72.73%
+Forced Exit 2: 81.28%
+
+
+========== set1_single_exit_block_12.txt ==========
+Trial: set1_single_exit_block_12
+Exit positions (after blocks): [12]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 6752 (67.52%)
+- Exit Accuracy (only exited samples): 90.48%
+- Exit Accuracy (wrt whole testset): 61.09%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 3 (Final exit if last):
+- Samples exited: 3248 (32.48%)
+- Exit Accuracy (only exited samples): 59.61%
+- Exit Accuracy (wrt whole testset): 19.36%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 782,024
+Overall Early-Exit Accuracy: 80.45%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 74.76%
+Forced Exit 2: 80.97%
+
+
+========== set1_single_exit_block_13.txt ==========
+Trial: set1_single_exit_block_13
+Exit positions (after blocks): [13]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 8011 (80.11%)
+- Exit Accuracy (only exited samples): 89.20%
+- Exit Accuracy (wrt whole testset): 71.46%
+- Exit Parameters: 1,101,412
+- Submodel Parameters: 1,101,412
+
+
+Exit 3 (Final exit if last):
+- Samples exited: 1989 (19.89%)
+- Exit Accuracy (only exited samples): 49.37%
+- Exit Accuracy (wrt whole testset): 9.82%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,306,312
+Overall Early-Exit Accuracy: 81.28%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 79.15%
+Forced Exit 2: 81.32%
+
+
+========== set1_single_exit_block_14.txt ==========
+Trial: set1_single_exit_block_14
+Exit positions (after blocks): [14]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 8686 (86.86%)
+- Exit Accuracy (only exited samples): 87.75%
+- Exit Accuracy (wrt whole testset): 76.22%
+- Exit Parameters: 1,101,412
+- Submodel Parameters: 1,101,412
+
+Exit 3 (Final exit if last):
+- Samples exited: 1314 (13.14%)
+- Exit Accuracy (only exited samples): 38.74%
+- Exit Accuracy (wrt whole testset): 5.09%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,306,312
+Overall Early-Exit Accuracy: 81.31%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 81.02%
+Forced Exit 2: 80.87%
+
+
+========== set1_single_exit_block_15.txt ==========
+Trial: set1_single_exit_block_15
+Exit positions (after blocks): [15]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 8810 (88.10%)
+- Exit Accuracy (only exited samples): 87.64%
+- Exit Accuracy (wrt whole testset): 77.21%
+- Exit Parameters: 1,101,412
+- Submodel Parameters: 1,101,412
+
+
+Exit 3 (Final exit if last):
+- Samples exited: 1190 (11.90%)
+- Exit Accuracy (only exited samples): 36.89%
+- Exit Accuracy (wrt whole testset): 4.39%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,306,312
+Overall Early-Exit Accuracy: 81.60%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 81.57%
+Forced Exit 2: 81.46%
+
+
+========== set1_single_exit_block_2.txt ==========
+Trial: set1_single_exit_block_2
+Exit positions (after blocks): [2]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 314 (3.14%)
+- Exit Accuracy (only exited samples): 87.90%
+- Exit Accuracy (wrt whole testset): 2.76%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+
+Exit 3 (Final exit if last):
+- Samples exited: 9686 (96.86%)
+- Exit Accuracy (only exited samples): 80.74%
+- Exit Accuracy (wrt whole testset): 78.20%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 388,808
+Overall Early-Exit Accuracy: 80.96%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 33.91%
+Forced Exit 2: 81.18%
+
+
+========== set1_single_exit_block_3.txt ==========
+Trial: set1_single_exit_block_3
+Exit positions (after blocks): [3]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 454 (4.54%)
+- Exit Accuracy (only exited samples): 92.95%
+- Exit Accuracy (wrt whole testset): 4.22%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 3 (Final exit if last):
+- Samples exited: 9546 (95.46%)
+- Exit Accuracy (only exited samples): 80.15%
+- Exit Accuracy (wrt whole testset): 76.51%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 519,880
+Overall Early-Exit Accuracy: 80.73%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 38.37%
+Forced Exit 2: 80.89%
+
+
+========== set1_single_exit_block_4.txt ==========
+Trial: set1_single_exit_block_4
+Exit positions (after blocks): [4]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 872 (8.72%)
+- Exit Accuracy (only exited samples): 92.09%
+- Exit Accuracy (wrt whole testset): 8.03%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 3 (Final exit if last):
+- Samples exited: 9128 (91.28%)
+- Exit Accuracy (only exited samples): 80.18%
+- Exit Accuracy (wrt whole testset): 73.19%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 519,880
+Overall Early-Exit Accuracy: 81.22%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 43.60%
+Forced Exit 2: 81.58%
+
+
+========== set1_single_exit_block_5.txt ==========
+Trial: set1_single_exit_block_5
+Exit positions (after blocks): [5]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 1414 (14.14%)
+- Exit Accuracy (only exited samples): 92.64%
+- Exit Accuracy (wrt whole testset): 13.10%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 3 (Final exit if last):
+- Samples exited: 8586 (85.86%)
+- Exit Accuracy (only exited samples): 78.48%
+- Exit Accuracy (wrt whole testset): 67.38%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 519,880
+Overall Early-Exit Accuracy: 80.48%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 49.59%
+Forced Exit 2: 80.96%
+
+
+========== set1_single_exit_block_6.txt ==========
+Trial: set1_single_exit_block_6
+Exit positions (after blocks): [6]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 1765 (17.65%)
+- Exit Accuracy (only exited samples): 93.54%
+- Exit Accuracy (wrt whole testset): 16.51%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 3 (Final exit if last):
+- Samples exited: 8235 (82.35%)
+- Exit Accuracy (only exited samples): 78.08%
+- Exit Accuracy (wrt whole testset): 64.30%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 519,880
+Overall Early-Exit Accuracy: 80.81%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 52.71%
+Forced Exit 2: 81.25%
+
+
+========== set1_single_exit_block_7.txt ==========
+Trial: set1_single_exit_block_7
+Exit positions (after blocks): [7]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 2906 (29.06%)
+- Exit Accuracy (only exited samples): 92.46%
+- Exit Accuracy (wrt whole testset): 26.87%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 3 (Final exit if last):
+- Samples exited: 7094 (70.94%)
+- Exit Accuracy (only exited samples): 75.32%
+- Exit Accuracy (wrt whole testset): 53.43%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 782,024
+Overall Early-Exit Accuracy: 80.30%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 58.26%
+Forced Exit 2: 81.03%
+
+
+========== set1_single_exit_block_8.txt ==========
+Trial: set1_single_exit_block_8
+Exit positions (after blocks): [8]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 3501 (35.01%)
+- Exit Accuracy (only exited samples): 93.72%
+- Exit Accuracy (wrt whole testset): 32.81%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 3 (Final exit if last):
+- Samples exited: 6499 (64.99%)
+- Exit Accuracy (only exited samples): 72.83%
+- Exit Accuracy (wrt whole testset): 47.33%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 782,024
+Overall Early-Exit Accuracy: 80.14%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 62.92%
+Forced Exit 2: 80.73%
+
+
+========== set1_single_exit_block_9.txt ==========
+Trial: set1_single_exit_block_9
+Exit positions (after blocks): [9]
+Thresholds used: [0.6]
+
+Exit 1 :
+- Samples exited: 4608 (46.08%)
+- Exit Accuracy (only exited samples): 91.49%
+- Exit Accuracy (wrt whole testset): 42.16%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+Exit 3 (Final exit if last):
+- Samples exited: 5392 (53.92%)
+- Exit Accuracy (only exited samples): 69.86%
+- Exit Accuracy (wrt whole testset): 37.67%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 782,024
+Overall Early-Exit Accuracy: 79.83%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 66.55%
+Forced Exit 2: 80.86%
+
+
+========== set2_exit_blocks_0_10.txt ==========
+Trial: set2_exit_blocks_0_10
+Exit positions (after blocks): [0, 10]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 89 (0.89%)
+- Exit Accuracy (only exited samples): 70.79%
+- Exit Accuracy (wrt whole testset): 0.63%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 5862 (58.62%)
+- Exit Accuracy (only exited samples): 87.41%
+- Exit Accuracy (wrt whole testset): 51.24%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 4049 (40.49%)
+- Exit Accuracy (only exited samples): 66.16%
+- Exit Accuracy (wrt whole testset): 26.79%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.66%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 23.41%
+Forced Exit 2: 67.87%
+Forced Exit 3: 80.81%
+
+
+========== set2_exit_blocks_0_11.txt ==========
+Trial: set2_exit_blocks_0_11
+Exit positions (after blocks): [0, 11]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 72 (0.72%)
+- Exit Accuracy (only exited samples): 77.78%
+- Exit Accuracy (wrt whole testset): 0.56%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 6822 (68.22%)
+- Exit Accuracy (only exited samples): 86.24%
+- Exit Accuracy (wrt whole testset): 58.83%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 3106 (31.06%)
+- Exit Accuracy (only exited samples): 61.49%
+- Exit Accuracy (wrt whole testset): 19.10%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.49%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 23.51%
+Forced Exit 2: 71.00%
+Forced Exit 3: 80.79%
+
+
+========== set2_exit_blocks_0_12.txt ==========
+Trial: set2_exit_blocks_0_12
+Exit positions (after blocks): [0, 12]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 92 (0.92%)
+- Exit Accuracy (only exited samples): 76.09%
+- Exit Accuracy (wrt whole testset): 0.70%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 7519 (75.19%)
+- Exit Accuracy (only exited samples): 85.66%
+- Exit Accuracy (wrt whole testset): 64.41%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 2389 (23.89%)
+- Exit Accuracy (only exited samples): 57.22%
+- Exit Accuracy (wrt whole testset): 13.67%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.78%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 22.69%
+Forced Exit 2: 74.08%
+Forced Exit 3: 80.94%
+
+
+========== set2_exit_blocks_0_13.txt ==========
+Trial: set2_exit_blocks_0_13
+Exit positions (after blocks): [0, 13]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 77 (0.77%)
+- Exit Accuracy (only exited samples): 68.83%
+- Exit Accuracy (wrt whole testset): 0.53%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 8724 (87.24%)
+- Exit Accuracy (only exited samples): 84.78%
+- Exit Accuracy (wrt whole testset): 73.96%
+- Exit Parameters: 1,101,412
+- Submodel Parameters: 1,101,412
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 1199 (11.99%)
+- Exit Accuracy (only exited samples): 42.87%
+- Exit Accuracy (wrt whole testset): 5.14%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,490,220
+Overall Early-Exit Accuracy: 79.63%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 23.94%
+Forced Exit 2: 78.12%
+Forced Exit 3: 80.77%
+
+
+========== set2_exit_blocks_0_14.txt ==========
+Trial: set2_exit_blocks_0_14
+Exit positions (after blocks): [0, 14]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 75 (0.75%)
+- Exit Accuracy (only exited samples): 76.00%
+- Exit Accuracy (wrt whole testset): 0.57%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 9212 (92.12%)
+- Exit Accuracy (only exited samples): 84.11%
+- Exit Accuracy (wrt whole testset): 77.48%
+- Exit Parameters: 1,101,412
+- Submodel Parameters: 1,101,412
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 713 (7.13%)
+- Exit Accuracy (only exited samples): 34.78%
+- Exit Accuracy (wrt whole testset): 2.48%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,490,220
+Overall Early-Exit Accuracy: 80.53%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 23.88%
+Forced Exit 2: 80.19%
+Forced Exit 3: 80.89%
+
+
+========== set2_exit_blocks_0_4.txt ==========
+Trial: set2_exit_blocks_0_4
+Exit positions (after blocks): [0, 4]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 118 (1.18%)
+- Exit Accuracy (only exited samples): 77.12%
+- Exit Accuracy (wrt whole testset): 0.91%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 1067 (10.67%)
+- Exit Accuracy (only exited samples): 84.54%
+- Exit Accuracy (wrt whole testset): 9.02%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 8815 (88.15%)
+- Exit Accuracy (only exited samples): 79.09%
+- Exit Accuracy (wrt whole testset): 69.72%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 703,788
+Overall Early-Exit Accuracy: 79.65%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 23.09%
+Forced Exit 2: 40.07%
+Forced Exit 3: 80.80%
+
+
+========== set2_exit_blocks_0_5.txt ==========
+Trial: set2_exit_blocks_0_5
+Exit positions (after blocks): [0, 5]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 62 (0.62%)
+- Exit Accuracy (only exited samples): 82.26%
+- Exit Accuracy (wrt whole testset): 0.51%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 1848 (18.48%)
+- Exit Accuracy (only exited samples): 85.82%
+- Exit Accuracy (wrt whole testset): 15.86%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 8090 (80.90%)
+- Exit Accuracy (only exited samples): 77.95%
+- Exit Accuracy (wrt whole testset): 63.06%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 703,788
+Overall Early-Exit Accuracy: 79.43%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 22.89%
+Forced Exit 2: 45.79%
+Forced Exit 3: 80.91%
+
+
+========== set2_exit_blocks_0_6.txt ==========
+Trial: set2_exit_blocks_0_6
+Exit positions (after blocks): [0, 6]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 123 (1.23%)
+- Exit Accuracy (only exited samples): 75.61%
+- Exit Accuracy (wrt whole testset): 0.93%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 2303 (23.03%)
+- Exit Accuracy (only exited samples): 85.63%
+- Exit Accuracy (wrt whole testset): 19.72%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 7574 (75.74%)
+- Exit Accuracy (only exited samples): 77.32%
+- Exit Accuracy (wrt whole testset): 58.56%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 703,788
+Overall Early-Exit Accuracy: 79.21%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 23.65%
+Forced Exit 2: 49.74%
+Forced Exit 3: 81.06%
+
+
+========== set2_exit_blocks_0_7.txt ==========
+Trial: set2_exit_blocks_0_7
+Exit positions (after blocks): [0, 7]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 58 (0.58%)
+- Exit Accuracy (only exited samples): 68.97%
+- Exit Accuracy (wrt whole testset): 0.40%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 3198 (31.98%)
+- Exit Accuracy (only exited samples): 87.34%
+- Exit Accuracy (wrt whole testset): 27.93%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 6744 (67.44%)
+- Exit Accuracy (only exited samples): 74.82%
+- Exit Accuracy (wrt whole testset): 50.46%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.79%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 23.33%
+Forced Exit 2: 55.18%
+Forced Exit 3: 80.70%
+
+
+========== set2_exit_blocks_0_8.txt ==========
+Trial: set2_exit_blocks_0_8
+Exit positions (after blocks): [0, 8]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 65 (0.65%)
+- Exit Accuracy (only exited samples): 81.54%
+- Exit Accuracy (wrt whole testset): 0.53%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 4273 (42.73%)
+- Exit Accuracy (only exited samples): 86.54%
+- Exit Accuracy (wrt whole testset): 36.98%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 5662 (56.62%)
+- Exit Accuracy (only exited samples): 72.22%
+- Exit Accuracy (wrt whole testset): 40.89%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.40%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 23.87%
+Forced Exit 2: 60.26%
+Forced Exit 3: 80.90%
+
+
+========== set2_exit_blocks_0_9.txt ==========
+Trial: set2_exit_blocks_0_9
+Exit positions (after blocks): [0, 9]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 45 (0.45%)
+- Exit Accuracy (only exited samples): 80.00%
+- Exit Accuracy (wrt whole testset): 0.36%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 5292 (52.92%)
+- Exit Accuracy (only exited samples): 87.07%
+- Exit Accuracy (wrt whole testset): 46.08%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 4663 (46.63%)
+- Exit Accuracy (only exited samples): 68.26%
+- Exit Accuracy (wrt whole testset): 31.83%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.27%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 24.37%
+Forced Exit 2: 64.76%
+Forced Exit 3: 80.74%
+
+
+========== set2_exit_blocks_1_10.txt ==========
+Trial: set2_exit_blocks_1_10
+Exit positions (after blocks): [1, 10]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 99 (0.99%)
+- Exit Accuracy (only exited samples): 88.89%
+- Exit Accuracy (wrt whole testset): 0.88%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 5918 (59.18%)
+- Exit Accuracy (only exited samples): 87.09%
+- Exit Accuracy (wrt whole testset): 51.54%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 3983 (39.83%)
+- Exit Accuracy (only exited samples): 65.96%
+- Exit Accuracy (wrt whole testset): 26.27%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.69%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 26.91%
+Forced Exit 2: 68.33%
+Forced Exit 3: 80.92%
+
+
+========== set2_exit_blocks_1_11.txt ==========
+Trial: set2_exit_blocks_1_11
+Exit positions (after blocks): [1, 11]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 106 (1.06%)
+- Exit Accuracy (only exited samples): 83.96%
+- Exit Accuracy (wrt whole testset): 0.89%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 6817 (68.17%)
+- Exit Accuracy (only exited samples): 85.33%
+- Exit Accuracy (wrt whole testset): 58.17%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 3077 (30.77%)
+- Exit Accuracy (only exited samples): 61.29%
+- Exit Accuracy (wrt whole testset): 18.86%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 77.92%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 26.96%
+Forced Exit 2: 71.18%
+Forced Exit 3: 80.79%
+
+
+========== set2_exit_blocks_1_12.txt ==========
+Trial: set2_exit_blocks_1_12
+Exit positions (after blocks): [1, 12]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 168 (1.68%)
+- Exit Accuracy (only exited samples): 86.31%
+- Exit Accuracy (wrt whole testset): 1.45%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 7904 (79.04%)
+- Exit Accuracy (only exited samples): 84.88%
+- Exit Accuracy (wrt whole testset): 67.09%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 1928 (19.28%)
+- Exit Accuracy (only exited samples): 53.06%
+- Exit Accuracy (wrt whole testset): 10.23%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.77%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 30.00%
+Forced Exit 2: 75.20%
+Forced Exit 3: 80.74%
+
+
+========== set2_exit_blocks_1_13.txt ==========
+Trial: set2_exit_blocks_1_13
+Exit positions (after blocks): [1, 13]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 197 (1.97%)
+- Exit Accuracy (only exited samples): 83.76%
+- Exit Accuracy (wrt whole testset): 1.65%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 8786 (87.86%)
+- Exit Accuracy (only exited samples): 84.60%
+- Exit Accuracy (wrt whole testset): 74.33%
+- Exit Parameters: 1,101,412
+- Submodel Parameters: 1,101,412
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 1017 (10.17%)
+- Exit Accuracy (only exited samples): 41.79%
+- Exit Accuracy (wrt whole testset): 4.25%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,490,220
+Overall Early-Exit Accuracy: 80.23%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 29.74%
+Forced Exit 2: 79.21%
+Forced Exit 3: 81.14%
+
+
+========== set2_exit_blocks_1_14.txt ==========
+Trial: set2_exit_blocks_1_14
+Exit positions (after blocks): [1, 14]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 186 (1.86%)
+- Exit Accuracy (only exited samples): 86.02%
+- Exit Accuracy (wrt whole testset): 1.60%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 9250 (92.50%)
+- Exit Accuracy (only exited samples): 83.76%
+- Exit Accuracy (wrt whole testset): 77.48%
+- Exit Parameters: 1,101,412
+- Submodel Parameters: 1,101,412
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 564 (5.64%)
+- Exit Accuracy (only exited samples): 31.91%
+- Exit Accuracy (wrt whole testset): 1.80%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,490,220
+Overall Early-Exit Accuracy: 80.88%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 29.82%
+Forced Exit 2: 80.81%
+Forced Exit 3: 81.28%
+
+
+========== set2_exit_blocks_1_4.txt ==========
+Trial: set2_exit_blocks_1_4
+Exit positions (after blocks): [1, 4]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 108 (1.08%)
+- Exit Accuracy (only exited samples): 93.52%
+- Exit Accuracy (wrt whole testset): 1.01%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 1099 (10.99%)
+- Exit Accuracy (only exited samples): 84.17%
+- Exit Accuracy (wrt whole testset): 9.25%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 8793 (87.93%)
+- Exit Accuracy (only exited samples): 78.72%
+- Exit Accuracy (wrt whole testset): 69.22%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 703,788
+Overall Early-Exit Accuracy: 79.48%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 27.05%
+Forced Exit 2: 40.00%
+Forced Exit 3: 80.57%
+
+
+========== set2_exit_blocks_1_5.txt ==========
+Trial: set2_exit_blocks_1_5
+Exit positions (after blocks): [1, 5]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 173 (1.73%)
+- Exit Accuracy (only exited samples): 82.08%
+- Exit Accuracy (wrt whole testset): 1.42%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 1758 (17.58%)
+- Exit Accuracy (only exited samples): 85.38%
+- Exit Accuracy (wrt whole testset): 15.01%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 8069 (80.69%)
+- Exit Accuracy (only exited samples): 78.13%
+- Exit Accuracy (wrt whole testset): 63.04%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 703,788
+Overall Early-Exit Accuracy: 79.47%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 27.53%
+Forced Exit 2: 45.88%
+Forced Exit 3: 80.96%
+
+
+========== set2_exit_blocks_1_6.txt ==========
+Trial: set2_exit_blocks_1_6
+Exit positions (after blocks): [1, 6]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 131 (1.31%)
+- Exit Accuracy (only exited samples): 81.68%
+- Exit Accuracy (wrt whole testset): 1.07%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 2215 (22.15%)
+- Exit Accuracy (only exited samples): 87.18%
+- Exit Accuracy (wrt whole testset): 19.31%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 7654 (76.54%)
+- Exit Accuracy (only exited samples): 77.55%
+- Exit Accuracy (wrt whole testset): 59.36%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 703,788
+Overall Early-Exit Accuracy: 79.74%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 26.89%
+Forced Exit 2: 49.77%
+Forced Exit 3: 81.44%
+
+
+========== set2_exit_blocks_1_7.txt ==========
+Trial: set2_exit_blocks_1_7
+Exit positions (after blocks): [1, 7]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 86 (0.86%)
+- Exit Accuracy (only exited samples): 83.72%
+- Exit Accuracy (wrt whole testset): 0.72%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 3235 (32.35%)
+- Exit Accuracy (only exited samples): 86.52%
+- Exit Accuracy (wrt whole testset): 27.99%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 6679 (66.79%)
+- Exit Accuracy (only exited samples): 75.00%
+- Exit Accuracy (wrt whole testset): 50.09%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.80%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 27.76%
+Forced Exit 2: 55.69%
+Forced Exit 3: 80.89%
+
+
+========== set2_exit_blocks_1_8.txt ==========
+Trial: set2_exit_blocks_1_8
+Exit positions (after blocks): [1, 8]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 92 (0.92%)
+- Exit Accuracy (only exited samples): 88.04%
+- Exit Accuracy (wrt whole testset): 0.81%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 4225 (42.25%)
+- Exit Accuracy (only exited samples): 87.29%
+- Exit Accuracy (wrt whole testset): 36.88%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 5683 (56.83%)
+- Exit Accuracy (only exited samples): 71.67%
+- Exit Accuracy (wrt whole testset): 40.73%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.42%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 26.89%
+Forced Exit 2: 60.56%
+Forced Exit 3: 80.58%
+
+
+========== set2_exit_blocks_1_9.txt ==========
+Trial: set2_exit_blocks_1_9
+Exit positions (after blocks): [1, 9]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 124 (1.24%)
+- Exit Accuracy (only exited samples): 87.10%
+- Exit Accuracy (wrt whole testset): 1.08%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 5110 (51.10%)
+- Exit Accuracy (only exited samples): 86.71%
+- Exit Accuracy (wrt whole testset): 44.31%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 4766 (47.66%)
+- Exit Accuracy (only exited samples): 69.70%
+- Exit Accuracy (wrt whole testset): 33.22%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.61%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 27.47%
+Forced Exit 2: 64.38%
+Forced Exit 3: 80.96%
+
+
+========== set2_exit_blocks_2_10.txt ==========
+Trial: set2_exit_blocks_2_10
+Exit positions (after blocks): [2, 10]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 162 (1.62%)
+- Exit Accuracy (only exited samples): 83.95%
+- Exit Accuracy (wrt whole testset): 1.36%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 5893 (58.93%)
+- Exit Accuracy (only exited samples): 86.56%
+- Exit Accuracy (wrt whole testset): 51.01%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 3945 (39.45%)
+- Exit Accuracy (only exited samples): 66.49%
+- Exit Accuracy (wrt whole testset): 26.23%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.60%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 30.35%
+Forced Exit 2: 68.30%
+Forced Exit 3: 80.70%
+
+
+========== set2_exit_blocks_2_11.txt ==========
+Trial: set2_exit_blocks_2_11
+Exit positions (after blocks): [2, 11]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 248 (2.48%)
+- Exit Accuracy (only exited samples): 87.10%
+- Exit Accuracy (wrt whole testset): 2.16%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 6710 (67.10%)
+- Exit Accuracy (only exited samples): 85.68%
+- Exit Accuracy (wrt whole testset): 57.49%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 3042 (30.42%)
+- Exit Accuracy (only exited samples): 60.91%
+- Exit Accuracy (wrt whole testset): 18.53%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.18%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 30.59%
+Forced Exit 2: 71.86%
+Forced Exit 3: 80.60%
+
+
+========== set2_exit_blocks_2_12.txt ==========
+Trial: set2_exit_blocks_2_12
+Exit positions (after blocks): [2, 12]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 294 (2.94%)
+- Exit Accuracy (only exited samples): 83.67%
+- Exit Accuracy (wrt whole testset): 2.46%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 7297 (72.97%)
+- Exit Accuracy (only exited samples): 84.69%
+- Exit Accuracy (wrt whole testset): 61.80%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 2409 (24.09%)
+- Exit Accuracy (only exited samples): 57.08%
+- Exit Accuracy (wrt whole testset): 13.75%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.01%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 30.78%
+Forced Exit 2: 73.51%
+Forced Exit 3: 80.61%
+
+
+========== set2_exit_blocks_2_13.txt ==========
+Trial: set2_exit_blocks_2_13
+Exit positions (after blocks): [2, 13]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 225 (2.25%)
+- Exit Accuracy (only exited samples): 82.22%
+- Exit Accuracy (wrt whole testset): 1.85%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 8564 (85.64%)
+- Exit Accuracy (only exited samples): 84.41%
+- Exit Accuracy (wrt whole testset): 72.29%
+- Exit Parameters: 1,101,412
+- Submodel Parameters: 1,101,412
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 1211 (12.11%)
+- Exit Accuracy (only exited samples): 42.94%
+- Exit Accuracy (wrt whole testset): 5.20%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,490,220
+Overall Early-Exit Accuracy: 79.34%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 30.39%
+Forced Exit 2: 78.01%
+Forced Exit 3: 81.00%
+
+
+========== set2_exit_blocks_2_14.txt ==========
+Trial: set2_exit_blocks_2_14
+Exit positions (after blocks): [2, 14]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 201 (2.01%)
+- Exit Accuracy (only exited samples): 87.56%
+- Exit Accuracy (wrt whole testset): 1.76%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 9091 (90.91%)
+- Exit Accuracy (only exited samples): 84.52%
+- Exit Accuracy (wrt whole testset): 76.84%
+- Exit Parameters: 1,101,412
+- Submodel Parameters: 1,101,412
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 708 (7.08%)
+- Exit Accuracy (only exited samples): 31.50%
+- Exit Accuracy (wrt whole testset): 2.23%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,490,220
+Overall Early-Exit Accuracy: 80.83%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 31.42%
+Forced Exit 2: 80.60%
+Forced Exit 3: 80.89%
+
+
+========== set2_exit_blocks_2_4.txt ==========
+Trial: set2_exit_blocks_2_4
+Exit positions (after blocks): [2, 4]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 212 (2.12%)
+- Exit Accuracy (only exited samples): 86.79%
+- Exit Accuracy (wrt whole testset): 1.84%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 1005 (10.05%)
+- Exit Accuracy (only exited samples): 83.18%
+- Exit Accuracy (wrt whole testset): 8.36%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 8783 (87.83%)
+- Exit Accuracy (only exited samples): 79.18%
+- Exit Accuracy (wrt whole testset): 69.54%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 703,788
+Overall Early-Exit Accuracy: 79.74%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 31.20%
+Forced Exit 2: 40.13%
+Forced Exit 3: 80.91%
+
+
+========== set2_exit_blocks_2_5.txt ==========
+Trial: set2_exit_blocks_2_5
+Exit positions (after blocks): [2, 5]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 179 (1.79%)
+- Exit Accuracy (only exited samples): 91.62%
+- Exit Accuracy (wrt whole testset): 1.64%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 1619 (16.19%)
+- Exit Accuracy (only exited samples): 86.47%
+- Exit Accuracy (wrt whole testset): 14.00%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 8202 (82.02%)
+- Exit Accuracy (only exited samples): 77.94%
+- Exit Accuracy (wrt whole testset): 63.93%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 703,788
+Overall Early-Exit Accuracy: 79.57%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 31.98%
+Forced Exit 2: 46.67%
+Forced Exit 3: 80.77%
+
+
+========== set2_exit_blocks_2_6.txt ==========
+Trial: set2_exit_blocks_2_6
+Exit positions (after blocks): [2, 6]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 261 (2.61%)
+- Exit Accuracy (only exited samples): 83.91%
+- Exit Accuracy (wrt whole testset): 2.19%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 1965 (19.65%)
+- Exit Accuracy (only exited samples): 87.43%
+- Exit Accuracy (wrt whole testset): 17.18%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 7774 (77.74%)
+- Exit Accuracy (only exited samples): 77.17%
+- Exit Accuracy (wrt whole testset): 59.99%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 703,788
+Overall Early-Exit Accuracy: 79.36%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 30.82%
+Forced Exit 2: 49.59%
+Forced Exit 3: 80.79%
+
+
+========== set2_exit_blocks_2_7.txt ==========
+Trial: set2_exit_blocks_2_7
+Exit positions (after blocks): [2, 7]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 190 (1.90%)
+- Exit Accuracy (only exited samples): 88.95%
+- Exit Accuracy (wrt whole testset): 1.69%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 3262 (32.62%)
+- Exit Accuracy (only exited samples): 86.33%
+- Exit Accuracy (wrt whole testset): 28.16%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 6548 (65.48%)
+- Exit Accuracy (only exited samples): 74.98%
+- Exit Accuracy (wrt whole testset): 49.10%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.95%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 30.04%
+Forced Exit 2: 56.01%
+Forced Exit 3: 81.17%
+
+
+========== set2_exit_blocks_2_8.txt ==========
+Trial: set2_exit_blocks_2_8
+Exit positions (after blocks): [2, 8]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 195 (1.95%)
+- Exit Accuracy (only exited samples): 91.28%
+- Exit Accuracy (wrt whole testset): 1.78%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 4270 (42.70%)
+- Exit Accuracy (only exited samples): 86.16%
+- Exit Accuracy (wrt whole testset): 36.79%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 5535 (55.35%)
+- Exit Accuracy (only exited samples): 71.94%
+- Exit Accuracy (wrt whole testset): 39.82%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.39%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 32.04%
+Forced Exit 2: 60.20%
+Forced Exit 3: 80.82%
+
+
+========== set2_exit_blocks_2_9.txt ==========
+Trial: set2_exit_blocks_2_9
+Exit positions (after blocks): [2, 9]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 227 (2.27%)
+- Exit Accuracy (only exited samples): 81.06%
+- Exit Accuracy (wrt whole testset): 1.84%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 4934 (49.34%)
+- Exit Accuracy (only exited samples): 87.62%
+- Exit Accuracy (wrt whole testset): 43.23%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 4839 (48.39%)
+- Exit Accuracy (only exited samples): 69.85%
+- Exit Accuracy (wrt whole testset): 33.80%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 965,932
+Overall Early-Exit Accuracy: 78.87%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 31.14%
+Forced Exit 2: 64.53%
+Forced Exit 3: 81.18%
+
+
+========== set2_exit_blocks_3_10.txt ==========
+Trial: set2_exit_blocks_3_10
+Exit positions (after blocks): [3, 10]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 407 (4.07%)
+- Exit Accuracy (only exited samples): 87.71%
+- Exit Accuracy (wrt whole testset): 3.57%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 2 :
+- Samples exited: 5683 (56.83%)
+- Exit Accuracy (only exited samples): 85.31%
+- Exit Accuracy (wrt whole testset): 48.48%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 3910 (39.10%)
+- Exit Accuracy (only exited samples): 65.98%
+- Exit Accuracy (wrt whole testset): 25.80%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,097,004
+Overall Early-Exit Accuracy: 77.85%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 34.82%
+Forced Exit 2: 67.11%
+Forced Exit 3: 80.76%
+
+
+========== set2_exit_blocks_3_11.txt ==========
+Trial: set2_exit_blocks_3_11
+Exit positions (after blocks): [3, 11]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 374 (3.74%)
+- Exit Accuracy (only exited samples): 91.71%
+- Exit Accuracy (wrt whole testset): 3.43%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 2 :
+- Samples exited: 6565 (65.65%)
+- Exit Accuracy (only exited samples): 85.27%
+- Exit Accuracy (wrt whole testset): 55.98%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 3061 (30.61%)
+- Exit Accuracy (only exited samples): 61.19%
+- Exit Accuracy (wrt whole testset): 18.73%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,097,004
+Overall Early-Exit Accuracy: 78.14%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 35.06%
+Forced Exit 2: 71.53%
+Forced Exit 3: 81.03%
+
+
+========== set2_exit_blocks_3_12.txt ==========
+Trial: set2_exit_blocks_3_12
+Exit positions (after blocks): [3, 12]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 318 (3.18%)
+- Exit Accuracy (only exited samples): 90.25%
+- Exit Accuracy (wrt whole testset): 2.87%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 2 :
+- Samples exited: 7282 (72.82%)
+- Exit Accuracy (only exited samples): 85.14%
+- Exit Accuracy (wrt whole testset): 62.00%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 2400 (24.00%)
+- Exit Accuracy (only exited samples): 55.79%
+- Exit Accuracy (wrt whole testset): 13.39%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,097,004
+Overall Early-Exit Accuracy: 78.26%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 35.71%
+Forced Exit 2: 73.96%
+Forced Exit 3: 80.45%
+
+
+========== set2_exit_blocks_3_13.txt ==========
+Trial: set2_exit_blocks_3_13
+Exit positions (after blocks): [3, 13]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 466 (4.66%)
+- Exit Accuracy (only exited samples): 89.91%
+- Exit Accuracy (wrt whole testset): 4.19%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 2 :
+- Samples exited: 8359 (83.59%)
+- Exit Accuracy (only exited samples): 84.08%
+- Exit Accuracy (wrt whole testset): 70.28%
+- Exit Parameters: 1,101,412
+- Submodel Parameters: 1,101,412
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 1175 (11.75%)
+- Exit Accuracy (only exited samples): 42.98%
+- Exit Accuracy (wrt whole testset): 5.05%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,621,292
+Overall Early-Exit Accuracy: 79.52%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 35.42%
+Forced Exit 2: 78.34%
+Forced Exit 3: 80.58%
+
+
+========== set2_exit_blocks_3_14.txt ==========
+Trial: set2_exit_blocks_3_14
+Exit positions (after blocks): [3, 14]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 331 (3.31%)
+- Exit Accuracy (only exited samples): 90.94%
+- Exit Accuracy (wrt whole testset): 3.01%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 2 :
+- Samples exited: 8958 (89.58%)
+- Exit Accuracy (only exited samples): 84.26%
+- Exit Accuracy (wrt whole testset): 75.48%
+- Exit Parameters: 1,101,412
+- Submodel Parameters: 1,101,412
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 711 (7.11%)
+- Exit Accuracy (only exited samples): 30.38%
+- Exit Accuracy (wrt whole testset): 2.16%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,621,292
+Overall Early-Exit Accuracy: 80.65%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 35.23%
+Forced Exit 2: 80.56%
+Forced Exit 3: 80.92%
+
+
+========== set2_exit_blocks_3_4.txt ==========
+Trial: set2_exit_blocks_3_4
+Exit positions (after blocks): [3, 4]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 320 (3.20%)
+- Exit Accuracy (only exited samples): 91.56%
+- Exit Accuracy (wrt whole testset): 2.93%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 2 :
+- Samples exited: 858 (8.58%)
+- Exit Accuracy (only exited samples): 82.40%
+- Exit Accuracy (wrt whole testset): 7.07%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 8822 (88.22%)
+- Exit Accuracy (only exited samples): 79.11%
+- Exit Accuracy (wrt whole testset): 69.79%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 834,860
+Overall Early-Exit Accuracy: 79.79%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 35.68%
+Forced Exit 2: 40.09%
+Forced Exit 3: 80.81%
+
+
+========== set2_exit_blocks_3_5.txt ==========
+Trial: set2_exit_blocks_3_5
+Exit positions (after blocks): [3, 5]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 311 (3.11%)
+- Exit Accuracy (only exited samples): 91.96%
+- Exit Accuracy (wrt whole testset): 2.86%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 2 :
+- Samples exited: 1512 (15.12%)
+- Exit Accuracy (only exited samples): 85.65%
+- Exit Accuracy (wrt whole testset): 12.95%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 8177 (81.77%)
+- Exit Accuracy (only exited samples): 77.60%
+- Exit Accuracy (wrt whole testset): 63.45%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 834,860
+Overall Early-Exit Accuracy: 79.26%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 35.18%
+Forced Exit 2: 45.25%
+Forced Exit 3: 80.53%
+
+
+========== set2_exit_blocks_3_6.txt ==========
+Trial: set2_exit_blocks_3_6
+Exit positions (after blocks): [3, 6]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 351 (3.51%)
+- Exit Accuracy (only exited samples): 90.88%
+- Exit Accuracy (wrt whole testset): 3.19%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 2 :
+- Samples exited: 1978 (19.78%)
+- Exit Accuracy (only exited samples): 84.78%
+- Exit Accuracy (wrt whole testset): 16.77%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 7671 (76.71%)
+- Exit Accuracy (only exited samples): 77.45%
+- Exit Accuracy (wrt whole testset): 59.41%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 834,860
+Overall Early-Exit Accuracy: 79.37%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 35.11%
+Forced Exit 2: 49.36%
+Forced Exit 3: 80.98%
+
+
+========== set2_exit_blocks_3_7.txt ==========
+Trial: set2_exit_blocks_3_7
+Exit positions (after blocks): [3, 7]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 321 (3.21%)
+- Exit Accuracy (only exited samples): 90.65%
+- Exit Accuracy (wrt whole testset): 2.91%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 2 :
+- Samples exited: 3112 (31.12%)
+- Exit Accuracy (only exited samples): 85.93%
+- Exit Accuracy (wrt whole testset): 26.74%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 6567 (65.67%)
+- Exit Accuracy (only exited samples): 75.10%
+- Exit Accuracy (wrt whole testset): 49.32%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,097,004
+Overall Early-Exit Accuracy: 78.97%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 34.96%
+Forced Exit 2: 55.17%
+Forced Exit 3: 81.20%
+
+
+========== set2_exit_blocks_3_8.txt ==========
+Trial: set2_exit_blocks_3_8
+Exit positions (after blocks): [3, 8]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 299 (2.99%)
+- Exit Accuracy (only exited samples): 91.64%
+- Exit Accuracy (wrt whole testset): 2.74%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 2 :
+- Samples exited: 3935 (39.35%)
+- Exit Accuracy (only exited samples): 86.61%
+- Exit Accuracy (wrt whole testset): 34.08%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 5766 (57.66%)
+- Exit Accuracy (only exited samples): 72.36%
+- Exit Accuracy (wrt whole testset): 41.72%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,097,004
+Overall Early-Exit Accuracy: 78.54%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 35.43%
+Forced Exit 2: 59.53%
+Forced Exit 3: 80.76%
+
+
+========== set2_exit_blocks_3_9.txt ==========
+Trial: set2_exit_blocks_3_9
+Exit positions (after blocks): [3, 9]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 359 (3.59%)
+- Exit Accuracy (only exited samples): 92.48%
+- Exit Accuracy (wrt whole testset): 3.32%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 2 :
+- Samples exited: 4885 (48.85%)
+- Exit Accuracy (only exited samples): 86.20%
+- Exit Accuracy (wrt whole testset): 42.11%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 4 (Final exit if last):
+- Samples exited: 4756 (47.56%)
+- Exit Accuracy (only exited samples): 69.47%
+- Exit Accuracy (wrt whole testset): 33.04%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,097,004
+Overall Early-Exit Accuracy: 78.47%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 35.28%
+Forced Exit 2: 65.11%
+Forced Exit 3: 80.88%
+
+
+========== set3_three_evenly_spaced_exits.txt ==========
+Trial: set3_three_evenly_spaced_exits
+Exit positions (after blocks): [3, 7, 11]
+Thresholds used: [0.6, 1.0, 1.4]
+
+Exit 1 :
+- Samples exited: 493 (4.93%)
+- Exit Accuracy (only exited samples): 92.09%
+- Exit Accuracy (wrt whole testset): 4.54%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 2 :
+- Samples exited: 3622 (36.22%)
+- Exit Accuracy (only exited samples): 84.59%
+- Exit Accuracy (wrt whole testset): 30.64%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+Exit 3 :
+- Samples exited: 4371 (43.71%)
+- Exit Accuracy (only exited samples): 70.99%
+- Exit Accuracy (wrt whole testset): 31.03%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+
+Exit 5 (Final exit if last):
+- Samples exited: 1514 (15.14%)
+- Exit Accuracy (only exited samples): 54.36%
+- Exit Accuracy (wrt whole testset): 8.23%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,674,128
+Overall Early-Exit Accuracy: 74.44%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 38.64%
+Forced Exit 2: 58.48%
+Forced Exit 3: 73.41%
+Forced Exit 4: 80.90%
+
+
+========== set4_four_evenly_spaced_exits.txt ==========
+Trial: set4_four_evenly_spaced_exits
+Exit positions (after blocks): [2, 5, 9, 13]
+Thresholds used: [0.6, 1.0, 1.4, 1.8]
+
+Exit 1 :
+- Samples exited: 283 (2.83%)
+- Exit Accuracy (only exited samples): 87.63%
+- Exit Accuracy (wrt whole testset): 2.48%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 1809 (18.09%)
+- Exit Accuracy (only exited samples): 86.84%
+- Exit Accuracy (wrt whole testset): 15.71%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 3 :
+- Samples exited: 5112 (51.12%)
+- Exit Accuracy (only exited samples): 75.57%
+- Exit Accuracy (wrt whole testset): 38.63%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+Exit 4 :
+- Samples exited: 2647 (26.47%)
+- Exit Accuracy (only exited samples): 63.47%
+- Exit Accuracy (wrt whole testset): 16.80%
+- Exit Parameters: 1,101,412
+- Submodel Parameters: 1,101,412
+
+
+Exit 6 (Final exit if last):
+- Samples exited: 149 (1.49%)
+- Exit Accuracy (only exited samples): 27.52%
+- Exit Accuracy (wrt whole testset): 0.41%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 2,382,324
+Overall Early-Exit Accuracy: 74.03%
+
+=== Forced Exit Accuracies (all samples forced through each exit) ===
+Forced Exit 1: 33.93%
+Forced Exit 2: 49.49%
+Forced Exit 3: 66.96%
+Forced Exit 4: 79.07%
+Forced Exit 5: 81.04%
+
+

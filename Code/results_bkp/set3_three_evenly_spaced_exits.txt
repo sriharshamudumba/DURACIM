@@ -1,0 +1,34 @@
+Trial: set3_three_evenly_spaced_exits
+Exit positions (after blocks): [3, 7, 11]
+Thresholds used: [0.6, 1.0, 1.4]
+
+Exit 1 :
+- Samples exited: 529 (5.29%)
+- Exit Accuracy (only exited samples): 93.38%
+- Exit Accuracy (wrt whole testset): 4.94%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 2 :
+- Samples exited: 3553 (35.53%)
+- Exit Accuracy (only exited samples): 84.35%
+- Exit Accuracy (wrt whole testset): 29.97%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+Exit 3 :
+- Samples exited: 4423 (44.23%)
+- Exit Accuracy (only exited samples): 72.48%
+- Exit Accuracy (wrt whole testset): 32.06%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+Exit 4 (Final exit if last):
+- Samples exited: 1495 (14.95%)
+- Exit Accuracy (only exited samples): 52.04%
+- Exit Accuracy (wrt whole testset): 7.78%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,674,128
+Overall Early-Exit Accuracy: 74.75%

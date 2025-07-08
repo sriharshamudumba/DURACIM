@@ -1,0 +1,42 @@
+Trial: set4_four_evenly_spaced_exits
+Exit positions (after blocks): [2, 5, 9, 13]
+Thresholds used: [0.6, 1.0, 1.4, 1.8]
+
+Exit 1 :
+- Samples exited: 307 (3.07%)
+- Exit Accuracy (only exited samples): 90.23%
+- Exit Accuracy (wrt whole testset): 2.77%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 1889 (18.89%)
+- Exit Accuracy (only exited samples): 87.40%
+- Exit Accuracy (wrt whole testset): 16.51%
+- Exit Parameters: 314,980
+- Submodel Parameters: 314,980
+
+Exit 3 :
+- Samples exited: 4900 (49.00%)
+- Exit Accuracy (only exited samples): 75.47%
+- Exit Accuracy (wrt whole testset): 36.98%
+- Exit Parameters: 577,124
+- Submodel Parameters: 577,124
+
+Exit 4 :
+- Samples exited: 2728 (27.28%)
+- Exit Accuracy (only exited samples): 63.27%
+- Exit Accuracy (wrt whole testset): 17.26%
+- Exit Parameters: 1,101,412
+- Submodel Parameters: 1,101,412
+
+
+Exit 5 (Final exit if last):
+- Samples exited: 176 (1.76%)
+- Exit Accuracy (only exited samples): 32.95%
+- Exit Accuracy (wrt whole testset): 0.58%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 2,382,324
+Overall Early-Exit Accuracy: 74.10%

@@ -1,0 +1,27 @@
+Trial: set2_exit_blocks_0_14
+Exit positions (after blocks): [0, 14]
+Thresholds used: [0.6, 1.0]
+
+Exit 1 :
+- Samples exited: 102 (1.02%)
+- Exit Accuracy (only exited samples): 76.47%
+- Exit Accuracy (wrt whole testset): 0.78%
+- Exit Parameters: 183,908
+- Submodel Parameters: 183,908
+
+Exit 2 :
+- Samples exited: 9293 (92.93%)
+- Exit Accuracy (only exited samples): 84.43%
+- Exit Accuracy (wrt whole testset): 78.46%
+- Exit Parameters: 1,101,412
+- Submodel Parameters: 1,101,412
+
+Exit 3 (Final exit if last):
+- Samples exited: 605 (6.05%)
+- Exit Accuracy (only exited samples): 30.41%
+- Exit Accuracy (wrt whole testset): 1.84%
+- Exit Parameters: 204,900
+- Submodel Parameters: 204,900
+
+Total Model Parameters (including exits + backbone): 1,490,220
+Overall Early-Exit Accuracy: 81.08%
